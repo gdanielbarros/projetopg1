@@ -1,10 +1,10 @@
-package br.upe.projetoP1;
-
-/**
- * Hello world!
- */
-public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
+//package br.upe.projetoP1;
+//
+///**
+// * Hello world!
+// */
+//public class App {
+//    public static void main(String[] args) {
+//        System.out.println("Hello World!");
+//    }
+//}
